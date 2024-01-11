@@ -20,12 +20,12 @@ const Education: React.FC = () => {
                     <div className={styles.presentation_bloc4}>
                         <h2 className={styles.element_education}>BUT (en cours)</h2>
                         <p><span className={style.bold}>IUT</span> de <span className={style.bold}>Lens</span></p>
-                        <p>Spécialité :<span className={style.bold}> Développement d'application</span></p>
+                        <p>Spécialité :<span className={style.bold}> Développement d application</span></p>
                     </div>
                     <div className={styles.presentation_bloc4}>
                         <h2 className={styles.element_education}>Après le but (envisagé)</h2>
-                        <p><span className={style.bold}>Recherche d'emploi</span></p>
-                        <p>Si possible dans mon entreprise d'alternance : <span className={style.bold}>MDWEB</span>
+                        <p><span className={style.bold}>Recherche d emploi</span></p>
+                        <p>Si possible dans mon entreprise d alternance : <span className={style.bold}>MDWEB</span>
                         </p>
                     </div>
                 </div>
