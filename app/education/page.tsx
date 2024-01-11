@@ -1,7 +1,7 @@
 // pages/education.tsx
 
 import styles from "./Education.module.css";
-import style from "./../Accueil/Accueil.module.css";
+import style from "./../accueil/Accueil.module.css";
 const Education: React.FC = () => {
     return (
         <div>
