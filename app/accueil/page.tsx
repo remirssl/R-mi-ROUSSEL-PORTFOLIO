@@ -9,7 +9,7 @@ const Accueil: React.FC = () => {
             <div>
                 <div className={styles.presentation_bloc}>
                     <h1>Bonjour,</h1>
-                    <h2>Je m'appelle <span className={styles.name}>Rémi ROUSSEL</span></h2>
+                    <h2>Je m appelle <span className={styles.name}>Rémi ROUSSEL</span></h2>
                 </div>
 
                 <div className={styles.presentation_bloc2}>
